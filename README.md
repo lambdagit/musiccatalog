@@ -16,7 +16,6 @@ npm run build
 
 
 ## Build server 
-``` bash
 
 cd server
 
