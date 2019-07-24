@@ -25,5 +25,8 @@ npm install
 
 # setup config/index.js (use template.js for example)
 
+# sync db
+node models/sync.js
+
 # run app 
 node app.js
